@@ -1,1 +1,1 @@
-# -c-
+to study C
